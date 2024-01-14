@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://db.gugpfeihbgrglnlxvbba.supabase.co:5432/chattercraze
+    username: postgres
+    password: hfqUyL8rhN990xTj
+server:
+  port: 8091
